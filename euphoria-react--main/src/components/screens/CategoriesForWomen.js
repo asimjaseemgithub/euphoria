@@ -21,7 +21,7 @@ function CategoriesForWomen() {
     <Container>
       <TitleWrapper>
         <HeadIcon />
-        <Heading>Categories uygfuyFor Women</Heading>
+        <Heading>Categories For Women</Heading>
       </TitleWrapper>
       <CardContainer>
         {items.map((item) => (
